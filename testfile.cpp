@@ -7,7 +7,7 @@ int main()
 {
     // prints hello world
     cout << "Hello World!!";
-    cout<<"This is a script to study GIT mechanisms";
+    cout<<"This is a script to study GIT mechanisms.. reset/revert/rebase";
   
     return 0;
 }
